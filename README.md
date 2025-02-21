@@ -70,7 +70,16 @@ Before running this project, ensure you have the following installed:
 5. Access the application:
     - Navigate to `http://localhost:8080` in your browser.
   
-6. Website Screenshot:
+# My Awesome Website
+
+This is the description of my awesome website.
+
+## Website Screenshot
+
+![Website Screenshot]("C:\Users\Lenovo\OneDrive\Pictures\Screenshots\Screenshot 2025-02-21 213521.png")
+
+Feel free to visit my website at [example.com](http://example.com)!
+
    
  
 
