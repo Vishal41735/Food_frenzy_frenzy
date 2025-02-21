@@ -68,7 +68,10 @@ Before running this project, ensure you have the following installed:
     ```
 
 5. Access the application:
-    - Navigate to `http://localhost:8080` in your browser. 
+    - Navigate to `http://localhost:8080` in your browser.
+  
+6. Website Screenshot:
+   
  
 
 
