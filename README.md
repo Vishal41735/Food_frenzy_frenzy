@@ -1,5 +1,5 @@
-# FoodFrenzy
-FoodFrenzy is a comprehensive system designed for managing customers, 
+# Food_frenzy_frenzy
+Food_frenzy_frenzy is a comprehensive system designed for managing customers, 
 inventory, and orders. It offers secure authentication, role-based access control,
  and database integration using MySQL. Built with Spring Boot and Thymeleaf,
   the application provides a seamless experience for admin and staff members.
@@ -49,7 +49,7 @@ Before running this project, ensure you have the following installed:
 
 2. Navigate to the project directory:
     ```bash
-    cd FoodFrenzy
+    cd Food_frenzy_frenzy
     ```
 
 3. Configure MySQL Database:
